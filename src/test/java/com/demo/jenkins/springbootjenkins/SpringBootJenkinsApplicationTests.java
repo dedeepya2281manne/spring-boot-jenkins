@@ -13,7 +13,7 @@ class SpringBootJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test cases  executing...!!");
-		logger.info("Second logger statement");
+		logger.info("Second logger statement")
 	}
 
 }
