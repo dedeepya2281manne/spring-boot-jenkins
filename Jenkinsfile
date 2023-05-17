@@ -1,4 +1,4 @@
-currentBuild.displayName = "Jenkins Demo"+currentBuild.number
+currentBuild.displayName = "Jenkins Demo "+currentBuild.number
 pipeline{
     agent any
     stages{
